@@ -29,6 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Source
+      href: https://github.com/Modern-Modpacks/mm-upptime
     - title: Website
       href: https://modernmodpacks.site
     - title: Discord
