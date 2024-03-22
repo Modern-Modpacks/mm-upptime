@@ -11,11 +11,13 @@ sites:
     url: https://splashes.modernmodpacks.site
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.modernmodpacks.site
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/rounded_logo.png
+  favicon: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/rounded_logo.png
   name: MM Status
   introTitle: "**This is a montioring page for projects made by [Modern Modpacks](https://modernmodpacks.site)**"
   introMessage: If you see anything go offline, please report it to [our discord server](https://discord.modernmodpacks.site)
