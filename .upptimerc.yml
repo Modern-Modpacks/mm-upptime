@@ -5,10 +5,13 @@ repo: mm-upptime # The name of this repository
 sites:
   - name: MissingTexture
     url: https://missingtexture.modernmodpacks.site
+    icon: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/missingtexture.png
   - name: KJSPKG Statistics
     url: https://tizudev.vercel.app/automatin/api/1025316079226064966/kjspkg
+    icon: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/kjspkg.png
   - name: ThisRecipeDoesNotExist
     url: https://thisrecipedoesnotexist.modernmodpacks.site
+    icon: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/missingtexture.png
   - name: Splashes
     url: https://splashes.modernmodpacks.site
 
