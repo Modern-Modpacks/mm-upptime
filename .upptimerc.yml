@@ -7,6 +7,8 @@ sites:
     url: https://missingtexture.modernmodpacks.site
     icon: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/missingtexture.png
   - name: KJSPKG Statistics (Automatin')
+    assignees:
+      - tizu69
     url: https://tizudev.vercel.app/automatin/api/1025316079226064966/kjspkg
     icon: https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/kjspkg.png
   - name: ThisRecipeDoesNotExist
