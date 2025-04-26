@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/missingtexture.png",
     "slug": "missing-texture",
     "status": "up",
-    "uptime": "93.78%",
+    "uptime": "93.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "94.51%",
+    "uptimeYear": "94.78%",
     "time": 605,
-    "timeDay": 547,
+    "timeDay": 442,
     "timeWeek": 499,
-    "timeMonth": 549,
-    "timeYear": 639,
+    "timeMonth": 546,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2025-04-04": 12,
       "2025-03-08": 278,
@@ -72,8 +72,7 @@
       "2024-05-13": 10,
       "2024-05-08": 62,
       "2024-04-28": 476,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
@@ -87,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1031,
-    "timeDay": 683,
-    "timeWeek": 763,
-    "timeMonth": 881,
-    "timeYear": 1059,
+    "time": 1030,
+    "timeDay": 884,
+    "timeWeek": 783,
+    "timeMonth": 868,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-01-08": 33,
       "2025-01-06": 57,
@@ -115,16 +114,16 @@
     "icon": "https://raw.githubusercontent.com/Modern-Modpacks/assets/main/Icons/Other/missingtexture.png",
     "slug": "this-recipe-does-not-exist",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "95.71%",
-    "time": 1331,
-    "timeDay": 1636,
-    "timeWeek": 1343,
-    "timeMonth": 1493,
-    "timeYear": 1422,
+    "time": 1332,
+    "timeDay": 1666,
+    "timeWeek": 1414,
+    "timeMonth": 1485,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2025-04-04": 12,
       "2025-03-08": 278,
@@ -179,8 +178,7 @@
       "2024-05-14": 494,
       "2024-05-13": 10,
       "2024-05-08": 62,
-      "2024-05-05": 11,
-      "2024-04-26": 35
+      "2024-05-05": 11
     }
   },
   {
@@ -189,16 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/splashes.modernmodpacks.site.ico",
     "slug": "splashes",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.87%",
     "time": 740,
-    "timeDay": 795,
-    "timeWeek": 744,
-    "timeMonth": 861,
-    "timeYear": 763,
+    "timeDay": 599,
+    "timeWeek": 742,
+    "timeMonth": 850,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2025-03-08": 278,
       "2025-02-15": 21,
@@ -252,8 +250,7 @@
       "2024-05-14": 495,
       "2024-05-13": 10,
       "2024-05-08": 48,
-      "2024-05-05": 11,
-      "2024-04-26": 10
+      "2024-05-05": 11
     }
   }
 ]
