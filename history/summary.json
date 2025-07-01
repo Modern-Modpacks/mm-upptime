@@ -13,7 +13,7 @@
     "time": 624,
     "timeDay": 604,
     "timeWeek": 577,
-    "timeMonth": 570,
+    "timeMonth": 574,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-06-30": 6,
@@ -44,8 +44,7 @@
       "2024-12-17": 70,
       "2024-12-16": 34,
       "2024-12-10": 19,
-      "2024-12-03": 27,
-      "2024-07-01": 10
+      "2024-12-03": 27
     }
   },
   {
@@ -62,7 +61,7 @@
     "time": 1005,
     "timeDay": 971,
     "timeWeek": 877,
-    "timeMonth": 1034,
+    "timeMonth": 1048,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2025-01-08": 33,
@@ -89,7 +88,7 @@
     "time": 1387,
     "timeDay": 746,
     "timeWeek": 1398,
-    "timeMonth": 1354,
+    "timeMonth": 1344,
     "timeYear": 1396,
     "dailyMinutesDown": {
       "2025-06-30": 22,
@@ -121,8 +120,7 @@
       "2024-12-18": 157,
       "2024-12-17": 47,
       "2024-12-16": 52,
-      "2024-12-03": 27,
-      "2024-07-01": 34
+      "2024-12-03": 27
     }
   },
   {
@@ -131,15 +129,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/splashes.modernmodpacks.site.ico",
     "slug": "splashes",
     "status": "up",
-    "uptime": "95.73%",
+    "uptime": "95.74%",
     "uptimeDay": "99.55%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "98.97%",
     "time": 778,
     "timeDay": 741,
     "timeWeek": 774,
-    "timeMonth": 779,
+    "timeMonth": 801,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2025-06-30": 6,
