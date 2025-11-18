@@ -1,7 +1,7 @@
 url: https://thisrecipedoesnotexist.modernmodpacks.site
-status: up
-code: 200
-responseTime: 2881
-lastUpdated: 2025-11-18T12:32:47.319Z
+status: down
+code: 500
+responseTime: 51
+lastUpdated: 2025-11-18T13:16:56.394Z
 startTime: 2024-03-21T21:15:02.205Z
 generator: Upptime <https://github.com/upptime/upptime>
